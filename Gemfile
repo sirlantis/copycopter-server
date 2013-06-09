@@ -23,6 +23,7 @@ group :development, :test do
   gem 'launchy', '2.0.5'
   gem 'rspec-rails', '2.8.1'
   gem 'spork', '0.9.0'
+  gem 'mina', git: 'git://github.com/nadarei/mina.git', branch: '8248fba1222ac4da7f73d422c9a71e99e23df957'
 end
 
 group :test do

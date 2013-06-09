@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/nadarei/mina.git
+  revision: 8248fba1222ac4da7f73d422c9a71e99e23df957
+  branch: 8248fba1222ac4da7f73d422c9a71e99e23df957
+  specs:
+    mina (0.2.1)
+      open4
+      rake
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -212,6 +221,7 @@ DEPENDENCIES
   htmldiff (= 0.0.1)
   jquery-rails (= 1.0.19)
   launchy (= 2.0.5)
+  mina!
   pg (= 0.13.2)
   rails (= 3.2.6)
   rspec-rails (= 2.8.1)
